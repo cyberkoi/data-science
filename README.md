@@ -21,6 +21,7 @@ This document lists four ideas that could potentially become my final capstone p
 - Reference: Stanford University (n.d.). Web data: Amazon reviews. Retrieved from https://snap.stanford.edu/data/web-Amazon.html
 
 ## World Trade
-- Abstract: Trade is a key means to fight poverty and achieve the Millennium Development Goals, specifically by improving developing country access to markets, and supporting a rules based, predictable trading system. In cooperation with other international development partners, the World Bank launched the Transparency in Trade Initiative to provide free and easy access to data on country-specific trade policies.
+- Description: Trade is a key means to fight poverty and achieve the Millennium Development Goals, specifically by improving developing country access to markets, and supporting a rules based, predictable trading system. In cooperation with other international development partners, the World Bank launched the Transparency in Trade Initiative to provide free and easy access to data on country-specific trade policies.
+- Note: Datasets can be sorted by country or indicators
 - What I can do: -?
 - Reference: The World Bank (n.d.). Trade. Retrieved from http://data.worldbank.org/topic/trade
