@@ -2,7 +2,7 @@
 
 ### Capstone project proposal - initial ideas
 
-This document lists four ideas that could potentially become my final capstone project. The plan is to choose one of these three ideas to focus on first, before diving further into the intricacies (methods, techniques etc.) that the final project demands.
+This document lists four ideas that could potentially become my final capstone project. The plan is to choose one of these four ideas to focus on, before diving further into the intricacies (methods, techniques etc.) that the final project demands.
 
 ## Entree Chicago Recommendation Data
 - Abstract: This data contains a record of user interactions with the Entree Chicago restaurant recommendation system. This is an interactive system that recommends restaurants to the user based on factors such as cuisine, price, style, atmosphere, etc. or based on similarity to a restaurant in another city (e.g. find me a restaurant similar to the Patina in Los Angeles). The user can then provide feedback such as find a nicer or less expensive restaurant.
