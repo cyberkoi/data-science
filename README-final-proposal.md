@@ -23,7 +23,11 @@ Plot (x / y):
 - Multiple studies have found that consumers are increasingly reliant upon online reviews when making decisions regarding purchase. According to [Entrepreneur](http://www.entrepreneur.com/article/253361), industry experts expect further increase in coming years.
 - Amazon has recognised that review helpfulness is a good indicator for bringing certain reviews up to the 'Top'. This has shifted away from chronologically sorting reviews according to 'Recent' posts or 'Highest Ratings'. 
 - By giving greater weight to "legitimate" reviews, the product will likely be given a more accurate picture, as opposed to fake or unhelpful reviews.
+- Moreover, improved user experience by minimising discovery time for best reviews.
 - Reviews are a source of valuable market intelligence. Customers rely on it, and merchants use feedback to make strategic placement decisions.
+
+
+This project will play a role in understanding how to overcome the bias for older reviews. Older reviews have more exposure and are deemed more helpful, as such newer reviews might not be given much of a chance.
 
 
 ### What data are you going to use for this? How will you acquire this data?
@@ -52,6 +56,8 @@ Plot (x / y):
 - Exploratory Data Analysis: Descriptive statistics and visualisations
 - Data story and further analysis
 - Lastly, final result covering requirements listed in the deliverables below
+
+(Learn more about NLP. Learn how to R and find words that seemingly indicate helpfulness and words that indicate uselessness)
 
 ### What are your deliverables? 
 1. **Code** for the project documented on github.
